@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Feedly_DAM</string>
+    <string name="tb_user">User</string>
+    <string name="tb_pass">Password</string>
+    <string name="tb_login">LOGIN</string>
+    <string name="tb_register">GET STARTED FOR FREE</string>
+    <string name="label_user">USER</string>
+    <string name="label_pass">PASSWORD</string>
+    <string name="hintNumeGresit">Nume</string>
+    <string name="hintPrenumeGresit">Prenume</string>
+    <string name="etMail">Mail</string>
+    <string name="hintDate">Date of birth</string>
+    <string name="hintUser">User</string>
+    <string name="hintNume">Last Name</string>
+    <string name="hintPrenume">First Name</string>
+    <string name="hintPass">Password</string>
+    <string name="btnReg">REGISTER</string>
+    <string name="hintUs">User</string>
+</resources>
